@@ -56,6 +56,9 @@ Password: 2005
 
 
 Liên hệ (3 người viết app):
-https://www.facebook.com/nguyen.triminh.9889
-https://www.facebook.com/trthphat
 https://www.facebook.com/chidung.ly.73/
+
+https://www.facebook.com/nguyen.triminh.9889
+
+https://www.facebook.com/trthphat
+
