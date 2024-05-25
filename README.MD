@@ -26,6 +26,7 @@ Note:
 
 ---------------------------------------------------------------------------------------
 Sau khi thực hiện các bước trên, hãy mở tệp MayPOS.exe để sử dụng
+
 Chúc bạn cài đặt thành công !!
 
 Chú ý:
