@@ -1,4 +1,11 @@
 ## DEMO Project
+![image-003](https://github.com/lychidung/POS/assets/122819884/70b96249-fe9e-4ba5-8372-ae7711237529)
+![image-005](https://github.com/lychidung/POS/assets/122819884/f911e169-f04c-474b-a59d-8e8c47189850)
+![image-006](https://github.com/lychidung/POS/assets/122819884/9d15afd6-320e-4e9e-b12c-a08c087f1661)
+![image-007](https://github.com/lychidung/POS/assets/122819884/530c06ab-dbdc-4378-b07a-cf364b0e6b46)
+![image-008](https://github.com/lychidung/POS/assets/122819884/616a6cc7-0f5f-4594-b835-fcfdefd12503)
+![image-009](https://github.com/lychidung/POS/assets/122819884/6cdeb3db-be33-472d-87be-fbe00bdaf9c7)
+![image-010](https://github.com/lychidung/POS/assets/122819884/096f06ab-6114-4543-b754-81a12a215706)
 
 Hãy cài SQLServer nếu bạn chưa có !!
 Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !!
