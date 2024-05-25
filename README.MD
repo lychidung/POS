@@ -44,11 +44,11 @@ Username: tranthanhphat
 Password: 2005
 
 -------------------------
-Folder kiểm kê:
+# Folder kiểm kê:
 - BillLog: Lưu trữ Bill thống kê
 - InvoiceLog: Lưu trữ các hóa đơn được xuất cho khách hàng
 
-Folder ảnh:
+# Folder ảnh:
 - avatar: Ảnh của các tài khoản Staff & Admin
 - icon: Các icon có trong ứng dụng
 - icon-theloai-mon: Các icon của danh mục món trong chức năng Order
