@@ -7,7 +7,7 @@ Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !!
 
 Trước khi vào ứng dụng vui lòng thực hiện các bước sau:
 
-* Tạo Database trong SQLServer*
+# Tạo Database trong SQLServer
 1. Tạo Database (để trống sau khi tạo)
 2. Vào Folder có tên là Data (Folder nằm ở địa chỉ bạn cài đặt MayPOS)
 3. Trong Folder Data có tệp Data.sql 
@@ -15,7 +15,7 @@ Vui lòng truy vấn tệp này đến Database của bạn vừa tạo !!
 
 ---------------------------------------------------------------------------------------
 
-* Kết nối SQLServer *
+# Kết nối SQLServer 
 1. Vào MayPOS.exe.config
 2. Sửa kết nối tại địa chỉ này
 connectionString="Data Source=localhost;Initial Catalog=MayPOS;Integrated Security=True" providerName="System.Data.SqlClient"
