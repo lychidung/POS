@@ -31,10 +31,12 @@ Chúc bạn cài đặt thành công !!
 Chú ý:
 Tài khoản đăng nhập:
 - Quyền quản trị:
+
 Username: lychidung
 Password: 2005
 
 - Quyền Staff:
+
 Username: nguyendientriminh
 Password: 2005
 
