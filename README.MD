@@ -30,7 +30,7 @@ Sau khi thực hiện các bước trên, hãy mở tệp MayPOS.exe để sử 
 Chúc bạn cài đặt thành công !!
 
 Chú ý:
-Tài khoản đăng nhập:
+Tài khoản đăng nhập
 - Quyền quản trị:
 
 Username: lychidung
