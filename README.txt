@@ -1,3 +1,5 @@
+## DEMO Project
+
 Hãy cài SQLServer nếu bạn chưa có !!
 Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !!
 Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !!
