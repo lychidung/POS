@@ -1,11 +1,21 @@
 ## DEMO Project
-![image-003](https://github.com/lychidung/POS/assets/122819884/70b96249-fe9e-4ba5-8372-ae7711237529)
-![image-005](https://github.com/lychidung/POS/assets/122819884/f911e169-f04c-474b-a59d-8e8c47189850)
-![image-006](https://github.com/lychidung/POS/assets/122819884/9d15afd6-320e-4e9e-b12c-a08c087f1661)
-![image-007](https://github.com/lychidung/POS/assets/122819884/530c06ab-dbdc-4378-b07a-cf364b0e6b46)
-![image-008](https://github.com/lychidung/POS/assets/122819884/616a6cc7-0f5f-4594-b835-fcfdefd12503)
-![image-009](https://github.com/lychidung/POS/assets/122819884/6cdeb3db-be33-472d-87be-fbe00bdaf9c7)
-![image-010](https://github.com/lychidung/POS/assets/122819884/096f06ab-6114-4543-b754-81a12a215706)
+
+![2](https://github.com/lychidung/POS/assets/122819884/ea14059e-7c90-4589-9e4d-da0cbdc0a18a)
+
+![3](https://github.com/lychidung/POS/assets/122819884/3f38a0ba-b1cb-4bdb-9dfe-60c3b52021f9)
+
+![4](https://github.com/lychidung/POS/assets/122819884/e605df6e-91a7-4a0a-9172-47ec7cc2844e)
+
+![5](https://github.com/lychidung/POS/assets/122819884/e2531f17-04fc-464e-80f4-353f889acaad)
+
+![6](https://github.com/lychidung/POS/assets/122819884/03b84766-6044-4c03-9cfc-44c2b5843381)
+
+![7](https://github.com/lychidung/POS/assets/122819884/ec64e0c8-488f-4b16-90ca-220dd499592b)
+
+![8](https://github.com/lychidung/POS/assets/122819884/c1698fac-6ea4-4e68-9038-fa6c20bff80b)
+
+![9](https://github.com/lychidung/POS/assets/122819884/f9639dec-e8b8-4f82-854a-aa96404720a7)
+
 
 Hãy cài SQLServer nếu bạn chưa có !!
 Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !!
