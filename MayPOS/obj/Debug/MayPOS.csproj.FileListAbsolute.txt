@@ -1,0 +1,414 @@
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\MayPOS.exe.config
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\MayPOS.exe
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.AssemblyReference.cache
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.SuggestedBindingRedirects.cache
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.Properties.Resources.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.GenerateResource.cache
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CoreCompileInputs.cache
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.exe
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.Login.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.fManager.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\Newtonsoft.Json.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\RestSharp.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Buffers.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.CodeDom.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Data.Odbc.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Data.OleDb.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Data.SqlClient.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Drawing.Common.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.IO.Packaging.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.IO.Ports.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Memory.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Security.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Security.Permissions.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\System.Threading.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.exe.licenses
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.Fody.CopyLocal.cache
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CopyComplete
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.fManagerMain.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.CardMenu.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Item.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonForm.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.fAdmin.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\MayPOS.exe.config
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\MayPOS.pdb
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\Newtonsoft.Json.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\RestSharp.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Buffers.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.CodeDom.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Data.Odbc.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Data.OleDb.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Data.SqlClient.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Drawing.Common.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.IO.Packaging.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.IO.Ports.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Memory.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Numerics.Vectors.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Security.AccessControl.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Security.Permissions.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\bin\Debug\System.Threading.AccessControl.xml
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.AssemblyReference.cache
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.SuggestedBindingRedirects.cache
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.CardMenu.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.fAdmin.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.fManager.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.fManagerMain.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.Login.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.Properties.Resources.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonForm.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Item.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.GenerateResource.cache
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.exe.licenses
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CoreCompileInputs.cache
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.Fody.CopyLocal.cache
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CopyComplete
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.fAdminMain.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_ThucDonMain.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonAnMain.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.fAdminMain.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonAnMain.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.UC_ThucDonMain.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.UserSetting.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.fChangePass.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin_sub.resources
+D:\Project Đồ Án\New folder\MayPOS\MayPOS\obj\Debug\MayPOS.UC_inforAccount.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.fChangePass.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_inforAccount.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin_sub.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UserSetting.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.ThemDanhMuc.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\MayPOS.exe.config
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\MayPOS.pdb
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\Newtonsoft.Json.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\RestSharp.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Buffers.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.CodeDom.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Data.Odbc.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Data.OleDb.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Data.SqlClient.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Drawing.Common.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.IO.Packaging.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.IO.Ports.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Memory.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Numerics.Vectors.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Security.AccessControl.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Security.Permissions.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\bin\Debug\System.Threading.AccessControl.xml
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.AssemblyReference.cache
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.SuggestedBindingRedirects.cache
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.CardMenu.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.fAdmin.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.fAdminMain.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.fManager.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.fManagerMain.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.fChangePass.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.Login.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.Properties.Resources.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemDanhMuc.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonAnMain.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonForm.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Item.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_inforAccount.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin_sub.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_ThucDonMain.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.UserSetting.resources
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.GenerateResource.cache
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.exe.licenses
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CoreCompileInputs.cache
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.Fody.CopyLocal.cache
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CopyComplete
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder (2)\MayPOS\MayPOS\obj\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Do Hoa May Tinh\MayPOS\MayPOS\bin\Debug\itextsharp.xml
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.Bill.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Dashboard.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_hoadon.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.BillCash.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.Calculator.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\MayPOS.exe.config
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\MayPOS.pdb
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\itextsharp.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\Newtonsoft.Json.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\RestSharp.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Buffers.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.CodeDom.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Data.Odbc.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Data.OleDb.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Data.SqlClient.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Drawing.Common.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.IO.Packaging.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.IO.Ports.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Memory.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Numerics.Vectors.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Security.AccessControl.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Security.Permissions.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\bin\Debug\System.Threading.AccessControl.xml
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.AssemblyReference.cache
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.SuggestedBindingRedirects.cache
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.Bill.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.BillCash.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.Calculator.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.CardMenu.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.fAdmin.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.fAdminMain.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.fManager.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.fManagerMain.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.fChangePass.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.Login.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.Properties.Resources.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemDanhMuc.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonAnMain.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonForm.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Dashboard.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_hoadon.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Item.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_inforAccount.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin_sub.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_ThucDonMain.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.UserSetting.resources
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.GenerateResource.cache
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.exe.licenses
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CoreCompileInputs.cache
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.Fody.CopyLocal.cache
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CopyComplete
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder (3)\MayPOS\MayPOS\obj\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\MayPOS.exe.config
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\MayPOS.exe
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\itextsharp.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\Newtonsoft.Json.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\RestSharp.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Buffers.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.CodeDom.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Data.Odbc.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Data.OleDb.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Data.SqlClient.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Drawing.Common.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.IO.Packaging.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.IO.Ports.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Memory.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Security.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Security.Permissions.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\bin\Debug\System.Threading.AccessControl.xml
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.csproj.AssemblyReference.cache
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.csproj.SuggestedBindingRedirects.cache
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.Bill.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.BillCash.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.Calculator.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.CardMenu.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.fAdmin.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.fAdminMain.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.fManager.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.fManagerMain.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.fChangePass.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.Login.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.Properties.Resources.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.ThemDanhMuc.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.ThemMonAnMain.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.ThemMonForm.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_Dashboard.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_hoadon.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_Item.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_inforAccount.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_theloai.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_theloai_admin.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_theloai_admin_sub.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_ThucDonMain.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UserSetting.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.csproj.GenerateResource.cache
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.exe.licenses
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.csproj.CoreCompileInputs.cache
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.csproj.Fody.CopyLocal.cache
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.csproj.CopyComplete
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.exe
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.ThemNhanVien.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.UC_taikhoan.resources
+C:\Do Hoa May Tinh\MayPOS4\MayPOS\obj\Debug\MayPOS.SuccessBill.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\MayPOS.exe.config
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\MayPOS.pdb
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\itextsharp.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\Newtonsoft.Json.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\RestSharp.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Buffers.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.CodeDom.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Data.Odbc.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Data.OleDb.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Data.SqlClient.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Drawing.Common.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.IO.Packaging.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.IO.Ports.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Memory.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Numerics.Vectors.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Security.AccessControl.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Security.Permissions.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\bin\Debug\System.Threading.AccessControl.xml
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.AssemblyReference.cache
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.SuggestedBindingRedirects.cache
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.Bill.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.BillCash.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.Calculator.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.CardMenu.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.fAdmin.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.fAdminMain.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.fManager.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.fManagerMain.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.fChangePass.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.Login.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.Properties.Resources.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.SuccessBill.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemDanhMuc.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonAnMain.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemMonForm.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.ThemNhanVien.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Dashboard.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_hoadon.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_Item.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_inforAccount.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_taikhoan.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_theloai_admin_sub.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UC_ThucDonMain.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.UserSetting.resources
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.GenerateResource.cache
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.exe.licenses
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CoreCompileInputs.cache
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.Fody.CopyLocal.cache
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.csproj.CopyComplete
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.exe
+D:\Project Đồ Án\New folder (4)\MayPOS\MayPOS\obj\Debug\MayPOS.pdb
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.SuccessBill.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.ThemNhanVien.resources
+C:\Do Hoa May Tinh\MayPOS\MayPOS\obj\Debug\MayPOS.UC_taikhoan.resources
